@@ -1,3 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: ????
+  Compatibility:
+    - AlertScanner: [item=alert-scanner] Better subgroup placement if SchallCircuitGroup is installed.
+    - AlertScanner: [item=alert-scanner] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.

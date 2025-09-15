@@ -9,3 +9,5 @@ Date: ????
     - AlertScanner: [item=alert-scanner] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - blueprint_reader: [item=blueprint_reader_blueprint-combinator] Better subgroup placement if SchallCircuitGroup is installed.
     - blueprint_reader: [item=blueprint_reader_blueprint-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - CircuitHUD-V2: [item=hud-combinator] Better subgroup placement if SchallCircuitGroup is installed.
+    - CircuitHUD-V2: [item=hud-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.

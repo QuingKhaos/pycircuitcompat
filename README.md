@@ -8,6 +8,7 @@ The following mods are made compatible:
 - [Active Rails](https://mods.factorio.com/mod/Active_Rails)
 - [Alert Scanner](https://mods.factorio.com/mod/AlertScanner)
 - [Blueprint reader combinator](https://mods.factorio.com/mod/blueprint_reader)
+- [Circuit HUD V2](https://mods.factorio.com/mod/CircuitHUD-V2)
 
 If you want to see Pyanodons integration for other circuit network mods, feel free to open a discussion thread on the mod portal or a GitHub issue.
 

@@ -1,0 +1,12 @@
+{
+  "name": "pycircuitcompat",
+  "title": "Pyanodons Circuit Compatibility",
+  "description": "Opinionated compatibility mod to integrate diverse circuit network mods better into Pyanodons.",
+  "author": "QuingKhaos",
+  "homepage": "",
+  "version": "1.0.0",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0"
+  ]
+}

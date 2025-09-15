@@ -4,6 +4,11 @@
 
 Opinionated compatibility mod to integrate diverse circuit network mods better into Pyanodons.
 
+The following mods are made compatible:
+- [Alert Scanner](https://mods.factorio.com/mod/AlertScanner)
+
+If you want to see Pyanodons integration for other mods, feel free to open a discussion thread on the mod portal or a GitHub issue.
+
 ## Legal Notice
 
 Pyanodons Circuit Compatibility is not officially endorsed or recognised by Pyanodons INC.

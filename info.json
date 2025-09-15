@@ -7,6 +7,10 @@
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.0",
+    "? AlertScanner >= 0.2.0",
+
+    "(?) pyalternativeenergy >= 3.0.0",
+    "(?) SchallCircuitGroup >= 2.0.0"
   ]
 }

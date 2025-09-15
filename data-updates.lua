@@ -1,2 +1,3 @@
 require("data-updates.Active_Rails")
 require("data-updates.AlertScanner")
+require("data-updates.blueprint_reader")

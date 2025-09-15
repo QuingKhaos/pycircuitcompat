@@ -10,6 +10,7 @@
     "base >= 2.0.0",
     "? Active_Rails >= 0.0.2",
     "? AlertScanner >= 0.2.0",
+    "? blueprint_reader >= 2.0.1",
 
     "(?) pyalternativeenergy >= 3.0.0",
     "(?) SchallCircuitGroup >= 2.0.0"

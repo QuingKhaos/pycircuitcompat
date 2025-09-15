@@ -2,5 +2,8 @@
 Version: 1.0.0
 Date: ????
   Compatibility:
+    - Active_Rails: [item=active-rail] Better subgroup placement if SchallCircuitGroup is installed.
+    - Active_Rails: [item=active-rail] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - Active_Rails: [item=active-rail] Unlock active rail with automated rail transportation technology.
     - AlertScanner: [item=alert-scanner] Better subgroup placement if SchallCircuitGroup is installed.
     - AlertScanner: [item=alert-scanner] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.

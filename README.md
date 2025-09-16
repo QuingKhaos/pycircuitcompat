@@ -10,6 +10,7 @@ The following mods are made compatible:
 - [Blueprint reader combinator](https://mods.factorio.com/mod/blueprint_reader)
 - [Circuit HUD V2](https://mods.factorio.com/mod/CircuitHUD-V2)
 - [Compact circuits](https://mods.factorio.com/mod/compaktcircuit)
+- [Cybersyn Combinator](https://mods.factorio.com/mod/cybersyn-combinator)
 
 For the detailed changes, see the changelog.
 

@@ -13,6 +13,7 @@
     "? blueprint_reader >= 2.0.1",
     "? CircuitHUD-V2 >= 2.3.0",
     "? compaktcircuit >= 2.0.0",
+    "? cybersyn-combinator >= 2.0.0",
 
     "(?) pyalienlife >= 3.0.0",
     "(?) pyalternativeenergy >= 3.0.0",

@@ -17,3 +17,6 @@ Date: ????
     - compaktcircuit: [item=compaktcircuit-processor][item=compaktcircuit-processor_1x1] Remove [item=advanced-circuit] from recipe.
     - compaktcircuit: [item=compaktcircuit-processor][item=compaktcircuit-processor_1x1] Unlock after [technology=circuit-network] and use the same science packs.
     - cybersyn-combinator: [item=cybersyn-constant-combinator] Better subgroup placement with SchallCircuitGroup.
+    - Cybersyn-Content-Reader: [item=cybersyn-provider-reader][item=cybersyn-requester-reader][item=cybersyn-delivery-reader] Better subgroup placement with SchallCircuitGroup.
+    - Cybersyn-Content-Reader: [item=cybersyn-provider-reader][item=cybersyn-requester-reader][item=cybersyn-delivery-reader] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - Cybersyn-Content-Reader: [item=cybersyn-provider-reader][item=cybersyn-requester-reader][item=cybersyn-delivery-reader] Remove [technology=circuit-network-2] and move unlocks to [technology=cybersyn-train-network].

@@ -1,8 +1,6 @@
 if mods["blueprint_reader"] then
   -- Better subgroup placement
-  if mods["SchallCircuitGroup"] then
-    data.raw.item["blueprint_reader_blueprint-combinator"].subgroup = "circuit-input"
-  end
+  data.raw.item["blueprint_reader_blueprint-combinator"].subgroup = "circuit-input"
 
   -- Require battery in recipe as other vanilla circuit network entities do in pyanodons
   if mods["pyalternativeenergy"] then

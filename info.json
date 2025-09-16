@@ -19,6 +19,6 @@
     "(?) pyalternativeenergy >= 3.0.0",
     "(?) pycoalprocessing >= 3.0.0",
     "pypostprocessing >= 3.0.22",
-    "(?) SchallCircuitGroup >= 2.0.0"
+    "SchallCircuitGroup >= 2.0.0"
   ]
 }

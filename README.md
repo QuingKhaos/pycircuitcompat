@@ -12,6 +12,7 @@ The following mods are made compatible:
 - [Circuit HUD V2](https://mods.factorio.com/mod/CircuitHUD-V2)
 - [Compact circuits](https://mods.factorio.com/mod/compaktcircuit)
 - [Cybersyn Combinator](https://mods.factorio.com/mod/cybersyn-combinator)
+- [Cybersyn Network Content Reader](https://mods.factorio.com/mod/Cybersyn-Content-Reader)
 
 For the detailed changes, see the changelog.
 

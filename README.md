@@ -16,6 +16,7 @@ The following mods are made compatible:
 - [Diode Combinator](https://mods.factorio.com/mod/diode-combinator)
 - [Display Plates - Ground Signs & Map Markers - Forked](https://mods.factorio.com/mod/DisplayPlatesForked)
 - [Energy Combinator](https://mods.factorio.com/mod/energy-combinator)
+- [fCPU](https://mods.factorio.com/mod/fcpu)
 
 For the detailed changes, see the changelog.
 

@@ -28,3 +28,6 @@ Date: ????
     - energy-combinator: [item=power-combinator-MK2] Change recipe to use [item=electronic-circuit] instead of [item=advanced-circuit].
     - energy-combinator: [technology=power-combinator] Use same science packs as [technology=electric-energy-distribution-1].
     - energy-combinator: [technology=power-combinator-MK2] Use same science packs as [technology=electric-energy-distribution-2].
+    - fcpu: [item=fcpu] Better subgroup placement with SchallCircuitGroup.
+    - fcpu: [item=fcpu] Change recipe to use more [item=electronic-circuit] instead of [item=processing-unit].
+    - fcpu: [technology=fcpu] Unlock after [technology=circuit-network] and use the same science packs as [technology=advanced-combinators].

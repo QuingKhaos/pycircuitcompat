@@ -36,11 +36,17 @@
 
     "(?) Automatic_Train_Painter >= 2.0.0",
     "(?) pyalienlife >= 3.0.0",
+    "(?) pyalienlife < 3.0.58",
     "(?) pyalternativeenergy >= 3.0.0",
+    "(?) pyalternativeenergy < 3.1.34",
     "pycoalprocessing >= 3.0.0",
+    "pycoalprocessing < 3.0.43",
     "(?) pyhightech >= 3.0.0",
+    "(?) pyhightech < 3.0.17",
     "(?) pyindustry >= 3.0.0",
+    "(?) pyindustry < 3.0.19",
     "pypostprocessing >= 3.0.22",
+    "pypostprocessing < 3.0.39",
     "SchallCircuitGroup >= 2.0.0"
   ]
 }

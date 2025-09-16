@@ -6,6 +6,7 @@ Opinionated compatibility mod to integrate diverse circuit network mods better i
 
 The following mods are made compatible. For the detailed changes, see the changelog.
 
+- [AAI Signal Transmission](https://mods.factorio.com/mod/aai-signal-transmission)
 - [Active Rails](https://mods.factorio.com/mod/Active_Rails)
 - [Alchemical combinator](https://mods.factorio.com/mod/alchemical-combinator)
 - [Alert Scanner](https://mods.factorio.com/mod/AlertScanner)

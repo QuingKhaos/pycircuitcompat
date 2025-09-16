@@ -9,8 +9,8 @@ if mods["compaktcircuit"] then
         ingredients = data.raw.recipe[recipe].ingredients[i]
 
         if ingredients.name == ingredient_to_remove then
-            index = i
-            break
+          index = i
+          break
         end
       end
 

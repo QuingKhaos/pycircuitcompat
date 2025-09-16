@@ -9,6 +9,7 @@ The following mods are made compatible. For the detailed changes, see the change
 - [Active Rails](https://mods.factorio.com/mod/Active_Rails)
 - [Alchemical combinator](https://mods.factorio.com/mod/alchemical-combinator)
 - [Alert Scanner](https://mods.factorio.com/mod/AlertScanner)
+- [Belt Counter 2.0](https://mods.factorio.com/mod/beltcounter2)
 - [Blueprint reader combinator](https://mods.factorio.com/mod/blueprint_reader)
 - [Circuit HUD V2](https://mods.factorio.com/mod/CircuitHUD-V2)
 - [Compact circuits](https://mods.factorio.com/mod/compaktcircuit)

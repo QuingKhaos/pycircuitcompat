@@ -47,3 +47,7 @@ Date: ????
     - inventory-sensor-improved: [item=hps__is-inventory-sensor] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - PollutionCombinator-JamieFork: [item=pc-pollution-combinator] Better subgroup placement with SchallCircuitGroup.
     - recipe_combinator: [item=recipe-combinator-main] Better subgroup placement with SchallCircuitGroup.
+    - Research_Control_Combinator_Updated: [item=Research_Control_Combinator] Better subgroup placement with SchallCircuitGroup.
+    - Research_Control_Combinator_Updated: [item=Research_Control_Combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - Research_Control_Combinator_Updated: [recipe=Research_Control_Combinator] Disable recipe as it should be unlocked by [technology=research-control-combinator].
+    - Research_Control_Combinator_Updated: [technology=research-control-combinator] Use same science packs as [technology=advanced-combinators].

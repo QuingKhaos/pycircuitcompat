@@ -27,6 +27,7 @@
     "? inventory-sensor-improved >= 1.0.0",
     "? PollutionCombinator-JamieFork >= 1.1.0",
     "? recipe_combinator >= 0.1.2",
+    "? Research_Control_Combinator_Updated >= 1.0.3",
 
     "(?) Automatic_Train_Painter >= 2.0.0",
     "(?) pyalienlife >= 3.0.0",

@@ -1,9 +1,7 @@
 if mods["Active_Rails"] then
   -- Better subgroup placement
-  if mods["SchallCircuitGroup"] then
-    data.raw["rail-planner"]["active-rail"].subgroup = "circuit-input"
-    data.raw.item["rail-combinator"].subgroup = "circuit-input"
-  end
+  data.raw["rail-planner"]["active-rail"].subgroup = "circuit-input"
+  data.raw.item["rail-combinator"].subgroup = "circuit-input"
 
   -- Require battery in recipe as other vanilla circuit network entities do in pyanodons
   if mods["pyalternativeenergy"] then

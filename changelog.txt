@@ -2,17 +2,17 @@
 Version: 1.0.0
 Date: ????
   Compatibility:
-    - Active_Rails: [item=active-rail] Better subgroup placement if SchallCircuitGroup is installed.
+    - Active_Rails: [item=active-rail] Better subgroup placement with SchallCircuitGroup.
     - Active_Rails: [item=active-rail] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - Active_Rails: [item=active-rail] Unlock with [technology=automated-rail-transportation].
-    - AlertScanner: [item=alert-scanner] Better subgroup placement if SchallCircuitGroup is installed.
+    - AlertScanner: [item=alert-scanner] Better subgroup placement with SchallCircuitGroup.
     - AlertScanner: [item=alert-scanner] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
-    - blueprint_reader: [item=blueprint_reader_blueprint-combinator] Better subgroup placement if SchallCircuitGroup is installed.
+    - blueprint_reader: [item=blueprint_reader_blueprint-combinator] Better subgroup placement with SchallCircuitGroup.
     - blueprint_reader: [item=blueprint_reader_blueprint-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
-    - CircuitHUD-V2: [item=hud-combinator] Better subgroup placement if SchallCircuitGroup is installed.
+    - CircuitHUD-V2: [item=hud-combinator] Better subgroup placement with SchallCircuitGroup.
     - CircuitHUD-V2: [item=hud-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
-    - compaktcircuit: [item=compaktcircuit-input][item=compaktcircuit-internal_iopoint][item=compaktcircuit-display] Better subgroup placement if SchallCircuitGroup is installed.
+    - compaktcircuit: [item=compaktcircuit-input][item=compaktcircuit-internal_iopoint][item=compaktcircuit-display] Better subgroup placement with SchallCircuitGroup.
     - compaktcircuit: [item=compaktcircuit-processor][item=compaktcircuit-processor_1x1] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed and compact circuits require power in packed mode.
     - compaktcircuit: [item=compaktcircuit-processor][item=compaktcircuit-processor_1x1] Remove [item=advanced-circuit] from recipe.
     - compaktcircuit: [item=compaktcircuit-processor][item=compaktcircuit-processor_1x1] Unlock after [technology=circuit-network] and use the same science packs.
-    - cybersyn-combinator: [item=cybersyn-constant-combinator] Better subgroup placement if SchallCircuitGroup is installed.
+    - cybersyn-combinator: [item=cybersyn-constant-combinator] Better subgroup placement with SchallCircuitGroup.

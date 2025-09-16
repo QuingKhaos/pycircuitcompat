@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2025-09-16
   Compatibility:
     - Restrict maximum py mod versions to versions prior to autotech 2.0 until compatibility with autotech 2.0 is tested and confirmed.
   Changes:

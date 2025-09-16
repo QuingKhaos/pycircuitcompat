@@ -4,7 +4,8 @@
 
 Opinionated compatibility mod to integrate diverse circuit network mods better into Pyanodons.
 
-The following mods are made compatible:
+The following mods are made compatible. For the detailed changes, see the changelog.
+
 - [Active Rails](https://mods.factorio.com/mod/Active_Rails)
 - [Alchemical combinator](https://mods.factorio.com/mod/alchemical-combinator)
 - [Alert Scanner](https://mods.factorio.com/mod/AlertScanner)
@@ -31,9 +32,7 @@ The following mods are made compatible:
 - [Statistics Combinators Updated](https://mods.factorio.com/mod/statistics-combinator-updated)
 - [Utility Combinators](https://mods.factorio.com/mod/utility-combinators-quality)
 
-For the detailed changes, see the changelog.
-
-If you want to see Pyanodons integration for other circuit network mods, feel free to open a discussion thread on the mod portal or a GitHub issue.
+If you want to see a Pyanodons integration for other circuit network mods, feel free to open a discussion thread on the mod portal or a GitHub issue.
 
 ## Legal Notice
 

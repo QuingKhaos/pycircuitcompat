@@ -2,6 +2,8 @@
 Version: 1.0.0
 Date: ????
   Compatibility:
+    - Restrict maximum py mod versions to versions prior to autotech 2.0 until compatibility with autotech 2.0 is tested and confirmed.
+  Changes:
     - Active_Rails: [item=active-rail] Better subgroup placement with SchallCircuitGroup.
     - Active_Rails: [recipe=active-rail] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - Active_Rails: [item=active-rail] Unlock with [technology=automated-rail-transportation].

@@ -24,6 +24,7 @@ The following mods are made compatible:
 - [Pollution Combinator (Jamie's Fork)](https://mods.factorio.com/mod/PollutionCombinator-JamieFork)
 - [Project Cybersyn - Logistics Train Dispatcher](https://mods.factorio.com/mod/cybersyn)
 - [Recipe Combinator](https://mods.factorio.com/mod/recipe_combinator)
+- [Research Control Combinator Updated](https://mods.factorio.com/mod/Research_Control_Combinator_Updated)
 
 For the detailed changes, see the changelog.
 

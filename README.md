@@ -9,6 +9,9 @@ The following mods are made compatible:
 - [Alert Scanner](https://mods.factorio.com/mod/AlertScanner)
 - [Blueprint reader combinator](https://mods.factorio.com/mod/blueprint_reader)
 - [Circuit HUD V2](https://mods.factorio.com/mod/CircuitHUD-V2)
+- [Compact circuits](https://mods.factorio.com/mod/compaktcircuit)
+
+For the detailed changes, see the changelog.
 
 If you want to see Pyanodons integration for other circuit network mods, feel free to open a discussion thread on the mod portal or a GitHub issue.
 

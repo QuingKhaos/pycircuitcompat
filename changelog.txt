@@ -35,3 +35,4 @@ Date: ????
     - fiber-optics: [item=hps__fo-optical-connector] Change recipe to use [item=electronic-circuit] instead of [item=advanced-circuit].
     - fiber-optics: [item=hps__fo-optical-connector] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - fiber-optics: [technology=hps__fo-optical-connector-technology] Unlock after [technology=circuit-network] and [technology=electric-energy-distribution-2] only and use the same science packs as [technology=electric-energy-distribution-2].
+    - filter-combinator-improved: [item=hps__fc-filter-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.

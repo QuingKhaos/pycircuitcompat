@@ -18,6 +18,7 @@ The following mods are made compatible:
 - [Energy Combinator](https://mods.factorio.com/mod/energy-combinator)
 - [fCPU](https://mods.factorio.com/mod/fcpu)
 - [Fiber Optics](https://mods.factorio.com/mod/fiber-optics)
+- [Filter Combinator (Reimagined)](https://mods.factorio.com/mod/filter-combinator-improved)
 
 For the detailed changes, see the changelog.
 

@@ -21,6 +21,7 @@ Date: ????
     - Cybersyn-Content-Reader: [item=cybersyn-provider-reader][item=cybersyn-requester-reader][item=cybersyn-delivery-reader] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - Cybersyn-Content-Reader: [item=cybersyn-provider-reader][item=cybersyn-requester-reader][item=cybersyn-delivery-reader] Remove [technology=circuit-network-2] and move unlocks to [technology=cybersyn-train-network].
     - DisplayPlatesForked: [item=copper-display-small][item=copper-display-medium][item=copper-display] Better subgroup placement with SchallCircuitGroup.
+    - diode-combinator: [technology=signal-diodes] Use the same science packs as [technology=advanced-combinators].
     - DisplayPlatesForked: [item=iron-display-small][item=iron-display-medium][item=iron-display] Better subgroup placement with SchallCircuitGroup.
     - DisplayPlatesForked: [item=steel-display-small][item=steel-display-medium][item=steel-display] Better subgroup placement with SchallCircuitGroup.
     - energy-combinator: [item=power-combinator][item=power-combinator-MK2] Better subgroup placement with SchallCircuitGroup.

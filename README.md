@@ -27,6 +27,7 @@ The following mods are made compatible:
 - [Research Control Combinator Updated](https://mods.factorio.com/mod/Research_Control_Combinator_Updated)
 - [Simple Gauge](https://mods.factorio.com/mod/simple-gauge)
 - [Spoilage Scanner](https://mods.factorio.com/mod/spoilage-scanner)
+- [Stack Combinator (Redux)](https://mods.factorio.com/mod/stack-combinator-redux)
 
 For the detailed changes, see the changelog.
 

@@ -23,6 +23,7 @@
     "? fiber-optics >= 1.0.0",
     "? filter-combinator-improved >= 3.0.0",
     "? heat-sensor >= 0.1.0",
+    "? inventory-sensor-improved >= 1.0.0",
 
     "(?) pyalienlife >= 3.0.0",
     "(?) pyalternativeenergy >= 3.0.0",

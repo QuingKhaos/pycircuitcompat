@@ -14,6 +14,7 @@ The following mods are made compatible:
 - [Cybersyn Combinator](https://mods.factorio.com/mod/cybersyn-combinator)
 - [Cybersyn Network Content Reader](https://mods.factorio.com/mod/Cybersyn-Content-Reader)
 - [Display Plates - Ground Signs & Map Markers - Forked](https://mods.factorio.com/mod/DisplayPlatesForked)
+- [Energy Combinator](https://mods.factorio.com/mod/energy-combinator)
 
 For the detailed changes, see the changelog.
 

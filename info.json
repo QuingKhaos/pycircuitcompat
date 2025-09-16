@@ -17,6 +17,7 @@
     "? cybersyn-combinator >= 2.0.0",
     "? Cybersyn-Content-Reader >= 1.0.0",
     "? DisplayPlatesForked >= 1.6.0",
+    "? energy-combinator >= 1.1.1",
 
     "(?) pyalienlife >= 3.0.0",
     "(?) pyalternativeenergy >= 3.0.0",

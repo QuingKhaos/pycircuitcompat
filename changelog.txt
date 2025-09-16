@@ -23,3 +23,7 @@ Date: ????
     - DisplayPlatesForked: [item=copper-display-small][item=copper-display-medium][item=copper-display] Better subgroup placement with SchallCircuitGroup.
     - DisplayPlatesForked: [item=iron-display-small][item=iron-display-medium][item=iron-display] Better subgroup placement with SchallCircuitGroup.
     - DisplayPlatesForked: [item=steel-display-small][item=steel-display-medium][item=steel-display] Better subgroup placement with SchallCircuitGroup.
+    - energy-combinator: [item=power-combinator][item=power-combinator-MK2] Better subgroup placement with SchallCircuitGroup.
+    - energy-combinator: [item=power-combinator-MK2] Change recipe to use [item=electronic-circuit] instead of [item=advanced-circuit].
+    - energy-combinator: [technology=power-combinator] Use same science packs as [technology=electric-energy-distribution-1].
+    - energy-combinator: [technology=power-combinator-MK2] Use same science packs as [technology=electric-energy-distribution-2].

@@ -41,3 +41,4 @@ Date: ????
     - heat-sensor: [item=heat-sensor] Unlock with [technology=advanced-material-processing-2].
     - inventory-sensor-improved: [item=hps__is-inventory-sensor] Better subgroup placement with SchallCircuitGroup.
     - inventory-sensor-improved: [item=hps__is-inventory-sensor] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - PollutionCombinator-JamieFork: [item=pc-pollution-combinator] Better subgroup placement with SchallCircuitGroup.

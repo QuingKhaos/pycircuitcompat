@@ -5,6 +5,7 @@ Date: ????
     - Active_Rails: [item=active-rail] Better subgroup placement with SchallCircuitGroup.
     - Active_Rails: [item=active-rail] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - Active_Rails: [item=active-rail] Unlock with [technology=automated-rail-transportation].
+    - alchemical-combinator: [item=alchemical-combinator] Change recipe to be similar to [item=selector-combinator], removing the need for [item=sulfur].
     - AlertScanner: [item=alert-scanner] Better subgroup placement with SchallCircuitGroup.
     - AlertScanner: [item=alert-scanner] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - blueprint_reader: [item=blueprint_reader_blueprint-combinator] Better subgroup placement with SchallCircuitGroup.

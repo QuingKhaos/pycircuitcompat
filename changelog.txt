@@ -15,7 +15,7 @@ Date: ????
     - compaktcircuit: [item=compaktcircuit-input][item=compaktcircuit-internal_iopoint][item=compaktcircuit-display] Better subgroup placement with SchallCircuitGroup.
     - compaktcircuit: [item=compaktcircuit-processor][item=compaktcircuit-processor_1x1] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed and compact circuits require power in packed mode.
     - compaktcircuit: [item=compaktcircuit-processor][item=compaktcircuit-processor_1x1] Remove [item=advanced-circuit] from recipe.
-    - compaktcircuit: [item=compaktcircuit-processor][item=compaktcircuit-processor_1x1] Unlock after [technology=circuit-network] and use the same science packs.
+    - compaktcircuit: [technology=compaktcircuit-tech] Unlock after [technology=circuit-network] and use the same science packs as [technology=advanced-combinators].
     - cybersyn-combinator: [item=cybersyn-constant-combinator] Better subgroup placement with SchallCircuitGroup.
     - Cybersyn-Content-Reader: [item=cybersyn-provider-reader][item=cybersyn-requester-reader][item=cybersyn-delivery-reader] Better subgroup placement with SchallCircuitGroup.
     - Cybersyn-Content-Reader: [item=cybersyn-provider-reader][item=cybersyn-requester-reader][item=cybersyn-delivery-reader] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.

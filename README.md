@@ -13,6 +13,7 @@ The following mods are made compatible:
 - [Compact circuits](https://mods.factorio.com/mod/compaktcircuit)
 - [Cybersyn Combinator](https://mods.factorio.com/mod/cybersyn-combinator)
 - [Cybersyn Network Content Reader](https://mods.factorio.com/mod/Cybersyn-Content-Reader)
+- [Diode Combinator](https://mods.factorio.com/mod/diode-combinator)
 - [Display Plates - Ground Signs & Map Markers - Forked](https://mods.factorio.com/mod/DisplayPlatesForked)
 - [Energy Combinator](https://mods.factorio.com/mod/energy-combinator)
 

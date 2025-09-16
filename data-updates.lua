@@ -1,6 +1,7 @@
 require("data-updates.Active_Rails")
 require("data-updates.alchemical-combinator")
 require("data-updates.AlertScanner")
+require("data-updates.beltcounter2")
 require("data-updates.blueprint_reader")
 require("data-updates.CircuitHUD-V2")
 require("data-updates.compaktcircuit")

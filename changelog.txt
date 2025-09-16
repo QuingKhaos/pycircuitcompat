@@ -56,3 +56,6 @@ Date: ????
     - simple-gauge: [item=ht-pipes] Create [item=simple-gauge-ht-pipes] if pyhightech is installed, unlocked at [technology=coal-processing-3].
     - spoilage-scanner: [item=spoilage-scanner] Better subgroup placement with SchallCircuitGroup.
     - stack-combinator-redux: [item=hps__sc-stack-combinator-redux] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - statistics-combinator-updated: [item=production-combinator][item=consumption-combinator] Better subgroup placement with SchallCircuitGroup.
+    - statistics-combinator-updated: [recipe=production-combinator][recipe=consumption-combinator] Remove [item=advanced-circuit] from recipe.
+    - statistics-combinator-updated: [technology=statistics-combinator] Unlock after [technology=circuit-network] and use the same science packs as [technology=advanced-combinators].

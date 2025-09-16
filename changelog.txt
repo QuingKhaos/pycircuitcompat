@@ -2,6 +2,9 @@
 Version: 1.1.0
 Date: ????
   Changes:
+    - aai-signal-transmission: [item=aai-signal-sender][item=aai-signal-receiver] Better subgroup placement with SchallCircuitGroup.
+    - aai-signal-transmission: [recipe=aai-signal-sender][recipe=aai-signal-receiver] Replace [item=electric-engine-unit] with [item=mechanical-parts-01] and [item=processing-unit] with [item=electronic-circuit] in recipes.
+    - aai-signal-transmission: [technology=aai-signal-transmission] Make dependent on [technology=circuit-network] and [technology=machine-components-mk01] to make it available earlier and use the same science packs as [technology=machine-components-mk01].
     - beltcounter2: [item=belt-arithmetic-combinator] Better subgroup placement with SchallCircuitGroup.
     - beltcounter2: [recipe=belt-arithmetic-combinator] Change recipe to use [item=arithmetic-combinator] instead of [item=power-switch].
 ---------------------------------------------------------------------------------------------------

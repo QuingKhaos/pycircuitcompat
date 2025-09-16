@@ -1,3 +1,4 @@
+require("data-updates.aai-signal-transmission")
 require("data-updates.Active_Rails")
 require("data-updates.alchemical-combinator")
 require("data-updates.AlertScanner")

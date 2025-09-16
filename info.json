@@ -30,6 +30,7 @@
     "? Research_Control_Combinator_Updated >= 1.0.3",
     "? simple-gauge >= 1.0.0",
     "? spoilage-scanner >= 0.3.4",
+    "? stack-combinator-redux >= 0.1.0",
 
     "(?) Automatic_Train_Painter >= 2.0.0",
     "(?) pyalienlife >= 3.0.0",

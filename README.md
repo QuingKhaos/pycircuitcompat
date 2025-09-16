@@ -19,6 +19,7 @@ The following mods are made compatible:
 - [fCPU](https://mods.factorio.com/mod/fcpu)
 - [Fiber Optics](https://mods.factorio.com/mod/fiber-optics)
 - [Filter Combinator (Reimagined)](https://mods.factorio.com/mod/filter-combinator-improved)
+- [Heat Sensor](https://mods.factorio.com/mod/heat-sensor)
 
 For the detailed changes, see the changelog.
 

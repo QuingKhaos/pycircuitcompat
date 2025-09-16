@@ -17,6 +17,7 @@ The following mods are made compatible:
 - [Display Plates - Ground Signs & Map Markers - Forked](https://mods.factorio.com/mod/DisplayPlatesForked)
 - [Energy Combinator](https://mods.factorio.com/mod/energy-combinator)
 - [fCPU](https://mods.factorio.com/mod/fcpu)
+- [Fiber Optics](https://mods.factorio.com/mod/fiber-optics)
 
 For the detailed changes, see the changelog.
 

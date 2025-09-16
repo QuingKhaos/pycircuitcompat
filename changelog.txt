@@ -31,3 +31,7 @@ Date: ????
     - fcpu: [item=fcpu] Better subgroup placement with SchallCircuitGroup.
     - fcpu: [item=fcpu] Change recipe to use more [item=electronic-circuit] instead of [item=processing-unit].
     - fcpu: [technology=fcpu] Unlock after [technology=circuit-network] and use the same science packs as [technology=advanced-combinators].
+    - fiber-optics: [item=hps__fo-optical-connector] Better subgroup placement with SchallCircuitGroup.
+    - fiber-optics: [item=hps__fo-optical-connector] Change recipe to use [item=electronic-circuit] instead of [item=advanced-circuit].
+    - fiber-optics: [item=hps__fo-optical-connector] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - fiber-optics: [technology=hps__fo-optical-connector-technology] Unlock after [technology=circuit-network] and [technology=electric-energy-distribution-2] only and use the same science packs as [technology=electric-energy-distribution-2].

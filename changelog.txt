@@ -59,3 +59,4 @@ Date: ????
     - statistics-combinator-updated: [item=production-combinator][item=consumption-combinator] Better subgroup placement with SchallCircuitGroup.
     - statistics-combinator-updated: [recipe=production-combinator][recipe=consumption-combinator] Remove [item=advanced-circuit] from recipe.
     - statistics-combinator-updated: [technology=statistics-combinator] Unlock after [technology=circuit-network] and use the same science packs as [technology=advanced-combinators].
+    - utility-combinators-quality: [item=location-combinator][item=bonus-combinator][item=research-combinator] Better subgroup placement with SchallCircuitGroup.

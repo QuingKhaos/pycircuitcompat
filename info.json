@@ -26,6 +26,7 @@
     "? heat-sensor >= 0.1.0",
     "? inventory-sensor-improved >= 1.0.0",
     "? PollutionCombinator-JamieFork >= 1.1.0",
+    "? recipe_combinator >= 0.1.2",
 
     "(?) Automatic_Train_Painter >= 2.0.0",
     "(?) pyalienlife >= 3.0.0",

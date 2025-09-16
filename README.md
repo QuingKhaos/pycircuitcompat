@@ -21,6 +21,7 @@ The following mods are made compatible:
 - [Filter Combinator (Reimagined)](https://mods.factorio.com/mod/filter-combinator-improved)
 - [Heat Sensor](https://mods.factorio.com/mod/heat-sensor)
 - [Improved Inventory Sensor](https://mods.factorio.com/mod/inventory-sensor-improved)
+- [Pollution Combinator (Jamie's Fork)](https://mods.factorio.com/mod/PollutionCombinator-JamieFork)
 
 For the detailed changes, see the changelog.
 

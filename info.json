@@ -27,6 +27,7 @@
     "? inventory-sensor-improved >= 1.0.0",
     "? PollutionCombinator-JamieFork >= 1.1.0",
 
+    "(?) Automatic_Train_Painter >= 2.0.0",
     "(?) pyalienlife >= 3.0.0",
     "(?) pyalternativeenergy >= 3.0.0",
     "pycoalprocessing >= 3.0.0",

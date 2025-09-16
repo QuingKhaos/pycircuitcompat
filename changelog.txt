@@ -19,6 +19,7 @@ Date: ????
     - cybersyn: [item=cybersyn-combinator] Better subgroup placement with SchallCircuitGroup.
     - cybersyn: [item=cybersyn-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - cybersyn: [technology=cybersyn-train-network] Use same science packs as [technology=automated-rail-transportation].
+    - cybersyn: Remove [item=manual-color-module] if Automatic_Train_Painter is installed.
     - cybersyn-combinator: [item=cybersyn-constant-combinator] Better subgroup placement with SchallCircuitGroup.
     - Cybersyn-Content-Reader: [item=cybersyn-provider-reader][item=cybersyn-requester-reader][item=cybersyn-delivery-reader] Better subgroup placement with SchallCircuitGroup.
     - Cybersyn-Content-Reader: [item=cybersyn-provider-reader][item=cybersyn-requester-reader][item=cybersyn-delivery-reader] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.

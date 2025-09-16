@@ -28,6 +28,7 @@ The following mods are made compatible:
 - [Simple Gauge](https://mods.factorio.com/mod/simple-gauge)
 - [Spoilage Scanner](https://mods.factorio.com/mod/spoilage-scanner)
 - [Stack Combinator (Redux)](https://mods.factorio.com/mod/stack-combinator-redux)
+- [Statistics Combinators Updated](https://mods.factorio.com/mod/statistics-combinator-updated)
 
 For the detailed changes, see the changelog.
 

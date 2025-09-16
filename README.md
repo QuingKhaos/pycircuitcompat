@@ -25,6 +25,7 @@ The following mods are made compatible:
 - [Project Cybersyn - Logistics Train Dispatcher](https://mods.factorio.com/mod/cybersyn)
 - [Recipe Combinator](https://mods.factorio.com/mod/recipe_combinator)
 - [Research Control Combinator Updated](https://mods.factorio.com/mod/Research_Control_Combinator_Updated)
+- [Simple Gauge](https://mods.factorio.com/mod/simple-gauge)
 
 For the detailed changes, see the changelog.
 

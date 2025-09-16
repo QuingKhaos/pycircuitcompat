@@ -54,3 +54,4 @@ Date: ????
     - simple-gauge: [item=simple-gauge] Better subgroup placement with SchallCircuitGroup.
     - simple-gauge: [item=niobium-pipe] Create [item=simple-gauge-niobium-pipe] if pyindustry is installed, unlocked either at [technology=py-storage-tanks] or [technology=niobium] depending on whether pycoalprocessing is installed.
     - simple-gauge: [item=ht-pipes] Create [item=simple-gauge-ht-pipes] if pyhightech is installed, unlocked at [technology=coal-processing-3].
+    - spoilage-scanner: [item=spoilage-scanner] Better subgroup placement with SchallCircuitGroup.

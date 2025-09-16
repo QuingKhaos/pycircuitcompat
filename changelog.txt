@@ -3,59 +3,59 @@ Version: 1.0.0
 Date: ????
   Compatibility:
     - Active_Rails: [item=active-rail] Better subgroup placement with SchallCircuitGroup.
-    - Active_Rails: [item=active-rail] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - Active_Rails: [recipe=active-rail] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - Active_Rails: [item=active-rail] Unlock with [technology=automated-rail-transportation].
-    - alchemical-combinator: [item=alchemical-combinator] Change recipe to be similar to [item=selector-combinator], removing the need for [item=sulfur].
+    - alchemical-combinator: [recipe=alchemical-combinator] Change recipe to be similar to [item=selector-combinator], removing the need for [item=sulfur].
     - AlertScanner: [item=alert-scanner] Better subgroup placement with SchallCircuitGroup.
-    - AlertScanner: [item=alert-scanner] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - AlertScanner: [recipe=alert-scanner] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - blueprint_reader: [item=blueprint_reader_blueprint-combinator] Better subgroup placement with SchallCircuitGroup.
-    - blueprint_reader: [item=blueprint_reader_blueprint-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - blueprint_reader: [recipe=blueprint_reader_blueprint-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - CircuitHUD-V2: [item=hud-combinator] Better subgroup placement with SchallCircuitGroup.
-    - CircuitHUD-V2: [item=hud-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - CircuitHUD-V2: [recipe=hud-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - compaktcircuit: [item=compaktcircuit-input][item=compaktcircuit-internal_iopoint][item=compaktcircuit-display] Better subgroup placement with SchallCircuitGroup.
-    - compaktcircuit: [item=compaktcircuit-processor][item=compaktcircuit-processor_1x1] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed and compact circuits require power in packed mode.
-    - compaktcircuit: [item=compaktcircuit-processor][item=compaktcircuit-processor_1x1] Remove [item=advanced-circuit] from recipe.
+    - compaktcircuit: [recipe=compaktcircuit-processor][recipe=compaktcircuit-processor_1x1] Remove [item=advanced-circuit] from recipe.
+    - compaktcircuit: [recipe=compaktcircuit-processor][recipe=compaktcircuit-processor_1x1] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed and compact circuits require power in packed mode.
     - compaktcircuit: [technology=compaktcircuit-tech] Unlock after [technology=circuit-network] and use the same science packs as [technology=advanced-combinators].
     - cybersyn: [item=cybersyn-combinator] Better subgroup placement with SchallCircuitGroup.
-    - cybersyn: [item=cybersyn-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - cybersyn: [recipe=cybersyn-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - cybersyn: [technology=cybersyn-train-network] Use same science packs as [technology=automated-rail-transportation].
     - cybersyn: Remove [item=manual-color-module] if Automatic_Train_Painter is installed.
     - cybersyn-combinator: [item=cybersyn-constant-combinator] Better subgroup placement with SchallCircuitGroup.
     - Cybersyn-Content-Reader: [item=cybersyn-provider-reader][item=cybersyn-requester-reader][item=cybersyn-delivery-reader] Better subgroup placement with SchallCircuitGroup.
-    - Cybersyn-Content-Reader: [item=cybersyn-provider-reader][item=cybersyn-requester-reader][item=cybersyn-delivery-reader] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
-    - Cybersyn-Content-Reader: [item=cybersyn-provider-reader][item=cybersyn-requester-reader][item=cybersyn-delivery-reader] Remove [technology=circuit-network-2] and move unlocks to [technology=cybersyn-train-network].
+    - Cybersyn-Content-Reader: [recipe=cybersyn-provider-reader][recipe=cybersyn-requester-reader][recipe=cybersyn-delivery-reader] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - Cybersyn-Content-Reader: [recipe=cybersyn-provider-reader][recipe=cybersyn-requester-reader][recipe=cybersyn-delivery-reader] Remove [technology=circuit-network-2] and move unlocks to [technology=cybersyn-train-network].
     - DisplayPlatesForked: [item=copper-display-small][item=copper-display-medium][item=copper-display] Better subgroup placement with SchallCircuitGroup.
     - diode-combinator: [technology=signal-diodes] Use the same science packs as [technology=advanced-combinators].
     - DisplayPlatesForked: [item=iron-display-small][item=iron-display-medium][item=iron-display] Better subgroup placement with SchallCircuitGroup.
     - DisplayPlatesForked: [item=steel-display-small][item=steel-display-medium][item=steel-display] Better subgroup placement with SchallCircuitGroup.
     - energy-combinator: [item=power-combinator][item=power-combinator-MK2] Better subgroup placement with SchallCircuitGroup.
-    - energy-combinator: [item=power-combinator-MK2] Change recipe to use [item=electronic-circuit] instead of [item=advanced-circuit].
+    - energy-combinator: [recipe=power-combinator-MK2] Change recipe to use [item=electronic-circuit] instead of [item=advanced-circuit].
     - energy-combinator: [technology=power-combinator] Use same science packs as [technology=electric-energy-distribution-1].
     - energy-combinator: [technology=power-combinator-MK2] Use same science packs as [technology=electric-energy-distribution-2].
     - fcpu: [item=fcpu] Better subgroup placement with SchallCircuitGroup.
-    - fcpu: [item=fcpu] Change recipe to use more [item=electronic-circuit] instead of [item=processing-unit].
+    - fcpu: [recipe=fcpu] Change recipe to use more [item=electronic-circuit] instead of [item=processing-unit].
     - fcpu: [technology=fcpu] Unlock after [technology=circuit-network] and use the same science packs as [technology=advanced-combinators].
     - fiber-optics: [item=hps__fo-optical-connector] Better subgroup placement with SchallCircuitGroup.
-    - fiber-optics: [item=hps__fo-optical-connector] Change recipe to use [item=electronic-circuit] instead of [item=advanced-circuit].
-    - fiber-optics: [item=hps__fo-optical-connector] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - fiber-optics: [recipe=hps__fo-optical-connector] Change recipe to use [item=electronic-circuit] instead of [item=advanced-circuit].
+    - fiber-optics: [recipe=hps__fo-optical-connector] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - fiber-optics: [technology=hps__fo-optical-connector-technology] Unlock after [technology=circuit-network] and [technology=electric-energy-distribution-2] only and use the same science packs as [technology=electric-energy-distribution-2].
-    - filter-combinator-improved: [item=hps__fc-filter-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - filter-combinator-improved: [recipe=hps__fc-filter-combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - heat-sensor: [item=heat-sensor] Better subgroup placement with SchallCircuitGroup.
-    - heat-sensor: [item=heat-sensor] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
-    - heat-sensor: [item=heat-sensor] Unlock with [technology=advanced-material-processing-2].
+    - heat-sensor: [recipe=heat-sensor] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - heat-sensor: [recipe=heat-sensor] Unlock with [technology=advanced-material-processing-2].
     - inventory-sensor-improved: [item=hps__is-inventory-sensor] Better subgroup placement with SchallCircuitGroup.
-    - inventory-sensor-improved: [item=hps__is-inventory-sensor] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - inventory-sensor-improved: [recipe=hps__is-inventory-sensor] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - PollutionCombinator-JamieFork: [item=pc-pollution-combinator] Better subgroup placement with SchallCircuitGroup.
     - recipe_combinator: [item=recipe-combinator-main] Better subgroup placement with SchallCircuitGroup.
     - Research_Control_Combinator_Updated: [item=Research_Control_Combinator] Better subgroup placement with SchallCircuitGroup.
-    - Research_Control_Combinator_Updated: [item=Research_Control_Combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - Research_Control_Combinator_Updated: [recipe=Research_Control_Combinator] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - Research_Control_Combinator_Updated: [recipe=Research_Control_Combinator] Disable recipe as it should be unlocked by [technology=research-control-combinator].
     - Research_Control_Combinator_Updated: [technology=research-control-combinator] Use same science packs as [technology=advanced-combinators].
     - simple-gauge: [item=simple-gauge] Better subgroup placement with SchallCircuitGroup.
     - simple-gauge: [item=niobium-pipe] Create [item=simple-gauge-niobium-pipe] if pyindustry is installed, unlocked either at [technology=py-storage-tanks] or [technology=niobium] depending on whether pycoalprocessing is installed.
     - simple-gauge: [item=ht-pipes] Create [item=simple-gauge-ht-pipes] if pyhightech is installed, unlocked at [technology=coal-processing-3].
     - spoilage-scanner: [item=spoilage-scanner] Better subgroup placement with SchallCircuitGroup.
-    - stack-combinator-redux: [item=hps__sc-stack-combinator-redux] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
+    - stack-combinator-redux: [recipe=hps__sc-stack-combinator-redux] Add [item=battery-mk01] to recipe if pyalternativeenergy is installed.
     - statistics-combinator-updated: [item=production-combinator][item=consumption-combinator] Better subgroup placement with SchallCircuitGroup.
     - statistics-combinator-updated: [recipe=production-combinator][recipe=consumption-combinator] Remove [item=advanced-circuit] from recipe.
     - statistics-combinator-updated: [technology=statistics-combinator] Unlock after [technology=circuit-network] and use the same science packs as [technology=advanced-combinators].

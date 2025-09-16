@@ -23,6 +23,7 @@ The following mods are made compatible:
 - [Improved Inventory Sensor](https://mods.factorio.com/mod/inventory-sensor-improved)
 - [Pollution Combinator (Jamie's Fork)](https://mods.factorio.com/mod/PollutionCombinator-JamieFork)
 - [Project Cybersyn - Logistics Train Dispatcher](https://mods.factorio.com/mod/cybersyn)
+- [Recipe Combinator](https://mods.factorio.com/mod/recipe_combinator)
 
 For the detailed changes, see the changelog.
 

@@ -1,8 +1,10 @@
 if mods["compaktcircuit"] then
-  -- Better subgroup placement
-  data.raw.item["compaktcircuit-input"].subgroup = "circuit-combinator"
-  data.raw.item["compaktcircuit-internal_iopoint"].subgroup = "circuit-input"
-  data.raw.item["compaktcircuit-display"].subgroup = "circuit-visual"
+  if not mods["compaktcircuittweaks"] then
+    -- Better subgroup placement
+    data.raw.item["compaktcircuit-input"].subgroup = "circuit-combinator"
+    data.raw.item["compaktcircuit-internal_iopoint"].subgroup = "circuit-input"
+    data.raw.item["compaktcircuit-display"].subgroup = "circuit-visual"
+  end
 
   -- Require battery in recipe as other vanilla circuit network entities do in pyanodons, if compact circuits require power in packed mode
   if mods["pyalternativeenergy"] and not settings.startup["compaktcircuit-no_energy"].value then

@@ -18,6 +18,7 @@ Date: ????
     - cybersyn: Extracted generic tweaks to a separate cybersyn-tweaks mod.
     - cybersyn-combinator: Extracted generic tweaks to a separate cybersyn-combinator-tweaks mod.
     - Cybersyn-Content-Reader: Extracted generic tweaks to a separate Cybersyn-Content-Reader-Tweaks mod.
+    - DisplayPlatesForked: Extracted generic tweaks to a separate DisplayPlatesForkedTweaks mod.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-09-16

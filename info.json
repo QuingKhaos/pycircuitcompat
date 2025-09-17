@@ -31,6 +31,7 @@
     "(?) Cybersyn-Content-Reader-Tweaks >= 1.0.0",
     "? diode-combinator >= 2.0.0",
     "? DisplayPlatesForked >= 1.6.0",
+    "(?) DisplayPlatesForkedTweaks >= 1.0.0",
     "? energy-combinator >= 1.1.1",
     "? fcpu >= 0.4.31",
     "? fiber-optics >= 1.0.0",

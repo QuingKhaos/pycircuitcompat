@@ -28,6 +28,7 @@
     "? cybersyn-combinator >= 2.0.0",
     "(?) cybersyn-combinator-tweaks >= 1.0.0",
     "? Cybersyn-Content-Reader >= 1.0.0",
+    "(?) Cybersyn-Content-Reader-Tweaks >= 1.0.0",
     "? diode-combinator >= 2.0.0",
     "? DisplayPlatesForked >= 1.6.0",
     "? energy-combinator >= 1.1.1",

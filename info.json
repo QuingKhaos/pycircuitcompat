@@ -16,6 +16,7 @@
     "? AlertScanner >= 0.2.0",
     "(?) AlertScannerTweaks >= 1.0.0",
     "? beltcounter2 >= 0.1.0",
+    "(?) beltcounter2-tweaks >= 1.0.0",
     "? blueprint_reader >= 2.0.1",
     "? CircuitHUD-V2 >= 2.3.0",
     "? compaktcircuit >= 2.0.0",

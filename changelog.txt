@@ -16,6 +16,7 @@ Date: ????
     - CircuitHUD-V2: Extracted generic tweaks to a separate CircuitHUD-V2-Tweaks mod.
     - compaktcircuit: Extracted generic tweaks to a separate compaktcircuittweaks mod.
     - cybersyn: Extracted generic tweaks to a separate cybersyn-tweaks mod.
+    - cybersyn-combinator: Extracted generic tweaks to a separate cybersyn-combinator-tweaks mod.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-09-16

@@ -1,6 +1,8 @@
 if mods["cybersyn"] then
-  -- Better subgroup placement
-  data.raw.item["cybersyn-combinator"].subgroup = "circuit-combinator"
+  if not mods["cybersyn-tweaks"] then
+    -- Better subgroup placement
+    data.raw.item["cybersyn-combinator"].subgroup = "circuit-combinator"
+  end
 
   -- Require battery in recipe as other vanilla circuit network entities do in pyanodons
   if mods["pyalternativeenergy"] then

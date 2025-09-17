@@ -24,6 +24,7 @@
     "? compaktcircuit >= 2.0.0",
     "(?) compaktcircuittweaks >= 1.0.0",
     "? cybersyn >= 2.0.0",
+    "(?) cybersyn-tweaks >= 1.0.0",
     "? cybersyn-combinator >= 2.0.0",
     "? Cybersyn-Content-Reader >= 1.0.0",
     "? diode-combinator >= 2.0.0",

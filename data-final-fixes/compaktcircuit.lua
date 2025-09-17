@@ -1,5 +1,5 @@
 if mods["compaktcircuit"] then
-  if not mods["compaktcircuittweaks"] or (mods["compaktcircuittweaks"] and not settings.startup["compaktcircuittweaks-recipe-tech-overhaul"].value) then
+  if not mods["compaktcircuittweaks"] or not settings.startup["compaktcircuittweaks-recipe-tech-overhaul"].value then
     -- Remove advanced circuit from recipe, py is hard enough already
     for _, recipe in pairs({"compaktcircuit-processor", "compaktcircuit-processor_1x1"}) do
       for _, ingredient_to_remove in pairs({"advanced-circuit"}) do

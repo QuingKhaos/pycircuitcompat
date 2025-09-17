@@ -7,6 +7,8 @@ Date: ????
     - aai-signal-transmission: [technology=aai-signal-transmission] Make dependent on [technology=circuit-network] and [technology=machine-components-mk01] to make it available earlier and use the same science packs as [technology=machine-components-mk01].
     - beltcounter2: [item=belt-arithmetic-combinator] Better subgroup placement with SchallCircuitGroup.
     - beltcounter2: [recipe=belt-arithmetic-combinator] Change recipe to use [item=arithmetic-combinator] instead of [item=power-switch].
+  Info:
+    - aai-signal-transmission: Extracted generic tweaks to a separate aai-signal-transmission-tweaks mod.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-09-16

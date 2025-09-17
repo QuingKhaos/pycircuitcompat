@@ -1,7 +1,9 @@
 if mods["aai-signal-transmission"] then
-  -- Better subgroup placement with SchallCircuitGroup
-  data.raw.item["aai-signal-sender"].subgroup = "circuit-connection"
-  data.raw.item["aai-signal-receiver"].subgroup = "circuit-connection"
+  if not mods["aai-signal-transmission-tweaks"] then
+    -- Better subgroup placement with SchallCircuitGroup
+    data.raw.item["aai-signal-sender"].subgroup = "circuit-connection"
+    data.raw.item["aai-signal-receiver"].subgroup = "circuit-connection"
+  end
 
   -- Replace ingredients with more reasonable ones, py is hard enough already
   for _, recipe in pairs({"aai-signal-sender", "aai-signal-receiver"}) do

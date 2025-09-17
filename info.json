@@ -11,6 +11,7 @@
     "? aai-signal-transmission >= 0.5.0",
     "(?) aai-signal-transmission-tweaks >= 1.0.0",
     "? Active_Rails >= 0.0.2",
+    "(?) Active_Rails_Tweaks >= 1.0.0",
     "? alchemical-combinator >= 1.0.0",
     "? AlertScanner >= 0.2.0",
     "? beltcounter2 >= 0.1.0",

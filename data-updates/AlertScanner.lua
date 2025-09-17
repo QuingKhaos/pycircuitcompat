@@ -1,6 +1,8 @@
 if mods["AlertScanner"] then
-  -- Better subgroup placement
-  data.raw.item["alert-scanner"].subgroup = "circuit-input"
+  if not mods["AlertScannerTweaks"] then
+    -- Better subgroup placement
+    data.raw.item["alert-scanner"].subgroup = "circuit-input"
+  end
 
   -- Require battery in recipe as other vanilla circuit network entities do in pyanodons
   if mods["pyalternativeenergy"] then

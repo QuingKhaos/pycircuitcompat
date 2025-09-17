@@ -14,6 +14,7 @@
     "(?) Active_Rails_Tweaks >= 1.0.0",
     "? alchemical-combinator >= 1.0.0",
     "? AlertScanner >= 0.2.0",
+    "(?) AlertScannerTweaks >= 1.0.0",
     "? beltcounter2 >= 0.1.0",
     "? blueprint_reader >= 2.0.1",
     "? CircuitHUD-V2 >= 2.3.0",

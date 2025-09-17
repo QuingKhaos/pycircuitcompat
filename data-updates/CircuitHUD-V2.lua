@@ -1,6 +1,8 @@
 if mods["CircuitHUD-V2"] then
-  -- Better subgroup placement
-  data.raw.item["hud-combinator"].subgroup = "circuit-visual"
+  if not mods["CircuitHUD-V2-Tweaks"] then
+    -- Better subgroup placement
+    data.raw.item["hud-combinator"].subgroup = "circuit-visual"
+  end
 
   -- Require battery in recipe as other vanilla circuit network entities do in pyanodons
   if mods["pyalternativeenergy"] then

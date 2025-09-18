@@ -1,6 +1,8 @@
 if mods["fcpu"] then
-  -- Better subgroup placement
-  data.raw.item["fcpu"].subgroup = "circuit-combinator"
+  if not mods["fcpu-tweaks"] then
+    -- Better subgroup placement
+    data.raw.item["fcpu"].subgroup = "circuit-combinator"
+  end
 
   -- Replace processing unit with more electronic circuits, py is hard enough already
   for i = 1, #data.raw.recipe["fcpu"].ingredients do

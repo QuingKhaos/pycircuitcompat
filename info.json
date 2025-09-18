@@ -35,6 +35,7 @@
     "? energy-combinator >= 1.1.1",
     "(?) energy-combinator-tweaks >= 1.0.0",
     "? fcpu >= 0.4.31",
+    "(?) fcpu-tweaks >= 1.0.0",
     "? fiber-optics >= 1.0.0",
     "? filter-combinator-improved >= 3.0.0",
     "? heat-sensor >= 0.1.0",

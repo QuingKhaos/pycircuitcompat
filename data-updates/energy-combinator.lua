@@ -1,7 +1,9 @@
 if mods["energy-combinator"] then
-  -- Better subgroup placement
-  data.raw.item["power-combinator"].subgroup = "circuit-input"
-  data.raw.item["power-combinator-MK2"].subgroup = "circuit-input"
+  if not mods["energy-combinator-tweaks"] then
+    -- Better subgroup placement
+    data.raw.item["power-combinator"].subgroup = "circuit-input"
+    data.raw.item["power-combinator-MK2"].subgroup = "circuit-input"
+  end
 
   -- Replace advanced circuit with electronic circuit, py is hard enough already
   for i = 1, #data.raw.recipe["power-combinator-MK2"].ingredients do

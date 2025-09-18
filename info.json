@@ -46,6 +46,7 @@
     "? PollutionCombinator-JamieFork >= 1.1.0",
     "(?) PollutionCombinator-JamieFork-Tweaks >= 1.0.0",
     "? recipe_combinator >= 0.1.2",
+    "(?) recipe_combinator_tweaks >= 1.0.0",
     "? Research_Control_Combinator_Updated >= 1.0.3",
     "? simple-gauge >= 1.0.0",
     "? spoilage-scanner >= 0.3.4",

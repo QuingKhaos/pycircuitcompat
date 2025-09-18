@@ -20,6 +20,7 @@ Date: ????
     - Cybersyn-Content-Reader: Extracted generic tweaks to a separate Cybersyn-Content-Reader-Tweaks mod.
     - DisplayPlatesForked: Extracted generic tweaks to a separate DisplayPlatesForkedTweaks mod.
     - energy-combinator: Extracted generic tweaks to a separate energy-combinator-tweaks mod.
+    - fcpu: Extracted generic tweaks to a separate fcpu-tweaks mod.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-09-16

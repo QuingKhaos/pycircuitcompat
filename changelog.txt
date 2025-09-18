@@ -24,6 +24,7 @@ Date: ????
     - fiber-optics: Extracted generic tweaks to a separate fiber-optics-tweaks mod.
     - heat-sensor: Extracted generic tweaks to a separate heat-sensor-tweaks mod.
     - inventory-sensor-improved: Extracted generic tweaks to a separate inventory-sensor-improved-tweaks mod.
+    - PollutionCombinator-JamieFork: Extracted generic tweaks to a separate PollutionCombinator-JamieFork-Tweaks mod.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-09-16

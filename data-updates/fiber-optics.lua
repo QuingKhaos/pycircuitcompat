@@ -1,6 +1,8 @@
 if mods["fiber-optics"] then
-  -- Better subgroup placement
-  data.raw.item["hps__fo-optical-connector"].subgroup = "circuit-connection"
+  if not mods["fiber-optics-tweaks"] then
+    -- Better subgroup placement
+    data.raw.item["hps__fo-optical-connector"].subgroup = "circuit-connection"
+  end
 
   -- Replace advanced circuit with electronic circuit, py is hard enough already
   for i = 1, #data.raw.recipe["hps__fo-optical-connector"].ingredients do

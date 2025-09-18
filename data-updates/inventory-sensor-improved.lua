@@ -1,6 +1,8 @@
 if mods["inventory-sensor-improved"] then
-  -- Better subgroup placement
-  data.raw.item["hps__is-inventory-sensor"].subgroup = "circuit-input"
+  if not mods["inventory-sensor-improved-tweaks"] then
+    -- Better subgroup placement
+    data.raw.item["hps__is-inventory-sensor"].subgroup = "circuit-input"
+  end
 
   -- Require battery in recipe as other vanilla circuit network entities do in pyanodons
   if mods["pyalternativeenergy"] then

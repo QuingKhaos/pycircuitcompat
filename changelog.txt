@@ -28,6 +28,7 @@ Date: ????
     - recipe_combinator: Extracted generic tweaks to a separate recipe_combinator_tweaks mod.
     - Research_Control_Combinator_Updated: Extracted generic tweaks to a separate Research_Control_Combinator_Updated_Tweaks mod.
     - simple-gauge: Extracted generic tweaks to a separate simple-gauge-tweaks mod.
+    - spoilage-scanner: Extracted generic tweaks to a separate spoilage-scanner-tweaks mod.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-09-16

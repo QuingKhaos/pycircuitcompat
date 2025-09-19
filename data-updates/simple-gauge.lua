@@ -1,6 +1,8 @@
 if mods["simple-gauge"] then
-  -- Better subgroup placement
-  data.raw.item["simple-gauge"].subgroup = "circuit-input"
+  if not mods["simple-gauge-tweaks"] then
+    -- Better subgroup placement
+    data.raw.item["simple-gauge"].subgroup = "circuit-input"
+  end
 
   create_from_pipe_prototype = require("__simple-gauge__.scripts.create_from_pipe_prototype")
 

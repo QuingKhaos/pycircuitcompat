@@ -52,6 +52,7 @@
     "? simple-gauge >= 1.0.0",
     "(?) simple-gauge-tweaks >= 1.0.0",
     "? spoilage-scanner >= 0.3.4",
+    "(?) spoilage-scanner-tweaks >= 1.0.0",
     "? stack-combinator-redux >= 0.1.0",
     "? statistics-combinator-updated >= 0.2.49",
     "? utility-combinators-quality >= 2.0.1",

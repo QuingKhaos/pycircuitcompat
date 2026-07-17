@@ -19,6 +19,7 @@
     "? compaktcircuit >= 2.0.28",
     "? Cybersyn-Content-Reader >= 1.0.2",
     "? energy-combinator >= 1.1.1",
+    "? fiber-optics >= 2.1.1",
 
     "? pyalternativeenergy >= 3.1.38",
     "pypostprocessing >= 3.0.42"

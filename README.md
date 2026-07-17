@@ -21,6 +21,7 @@ compatibility tweaks for Pyanodons:
 - [Compact Circuits](https://mods.factorio.com/mod/compaktcircuit)
 - [Cybersyn Network Content Reader](https://mods.factorio.com/mod/Cybersyn-Content-Reader)
 - [Energy Combinator](https://mods.factorio.com/mod/energy-combinator)
+- [Fiber Optics](https://mods.factorio.com/mod/fiber-optics)
 
 If you want to see another Pyanodons integration for other circuitry mods, please open a discussion thread on the mod
 portal, or an issue on GitHub, or join the Discord server and let me know.

@@ -21,6 +21,7 @@
     "? energy-combinator >= 1.1.1",
     "? fiber-optics >= 2.1.1",
     "? filter-combinator-improved >= 3.9.0",
+    "? heat-sensor >= 0.1.1",
 
     "? pyalternativeenergy >= 3.1.38",
     "pypostprocessing >= 3.0.42"

@@ -7,3 +7,4 @@ require("__pycircuitcompat__.prototypes.compat.cybersyn-content-reader-final-fix
 require("__pycircuitcompat__.prototypes.compat.energy-combinator-final-fixes")
 require("__pycircuitcompat__.prototypes.compat.fiber-optics-final-fixes")
 require("__pycircuitcompat__.prototypes.compat.filter-combinator-final-fixes")
+require("__pycircuitcompat__.prototypes.compat.heat-sensor-final-fixes")

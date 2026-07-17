@@ -16,6 +16,7 @@
     "? AlertScanner >= 0.2.2",
     "? blueprint_reader >= 2.0.2",
     "? CircuitHUD-V2 >= 2.5.1",
+    "? compaktcircuit >= 2.0.28",
 
     "? pyalternativeenergy >= 3.1.38",
     "pypostprocessing >= 3.0.42"

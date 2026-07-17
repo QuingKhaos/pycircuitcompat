@@ -26,6 +26,10 @@
     "? Research_Control_Combinator_Updated >= 1.0.3",
 
     "? pyalternativeenergy >= 3.1.38",
+    "? pycoalprocessing >= 3.0.44",
+    "? pyhightech >= 3.0.19",
+    "? pyindustry >= 3.0.21",
+    "? pypetroleumhandling >= 3.0.23",
     "pypostprocessing >= 3.0.42"
   ]
 }

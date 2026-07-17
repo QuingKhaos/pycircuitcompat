@@ -13,6 +13,7 @@
     "khaoslib >= 1.17.1",
 
     "? Active_Rails >= 0.0.3",
+    "? AlertScanner >= 0.2.2",
 
     "? pyalternativeenergy >= 3.1.38",
     "pypostprocessing >= 3.0.42"

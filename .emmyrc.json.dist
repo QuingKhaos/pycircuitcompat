@@ -7,7 +7,7 @@
         "moduleMap": [
             {
                 "pattern": "^(.*)$",
-                "replace": "__###NAME###__.$1"
+                "replace": "__pycircuitcompat__.$1"
             }
         ]
     }

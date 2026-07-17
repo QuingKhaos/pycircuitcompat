@@ -19,6 +19,7 @@ compatibility tweaks for Pyanodons:
 - [Blueprint Reader Combinator](https://mods.factorio.com/mod/blueprint_reader)
 - [Circuit HUD V2](https://mods.factorio.com/mod/CircuitHUD-V2)
 - [Compact Circuits](https://mods.factorio.com/mod/compaktcircuit)
+- [Cybersyn Network Content Reader](https://mods.factorio.com/mod/Cybersyn-Content-Reader)
 
 If you want to see another Pyanodons integration for other circuitry mods, please open a discussion thread on the mod
 portal, or an issue on GitHub, or join the Discord server and let me know.

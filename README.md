@@ -24,6 +24,7 @@ compatibility tweaks for Pyanodons:
 - [Fiber Optics](https://mods.factorio.com/mod/fiber-optics)
 - [Filter Combinator (Reimagined)](https://mods.factorio.com/mod/filter-combinator-improved)
 - [Heat Sensor](https://mods.factorio.com/mod/heat-sensor)
+- [Improved Inventory Sensor](https://mods.factorio.com/mod/inventory-sensor-improved)
 
 If you want to see another Pyanodons integration for other circuitry mods, please open a discussion thread on the mod
 portal, or an issue on GitHub, or join the Discord server and let me know.

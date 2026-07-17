@@ -7,15 +7,14 @@
 
 # Pyanodons Circuit Compatibility
 
-Opinionated compatibility mod to integrate diverse circuit network mods better into Pyanodons. If you don't like a
-specific compatibility tweak, most can be disabled in the mod startup settings.
+Opinionated compatibility mod to integrate diverse circuit network mods better into Pyanodons.
 
 ## Compatible mods
 
 Includes [QuingKhaos' Circuitry Tweaks](https://mods.factorio.com/mod/khaoscircuitry). The following mods have extra
 compatibility tweaks for Pyanodons:
 
-t.b.d.
+- [Active Rails](https://mods.factorio.com/mod/Active_Rails)
 
 If you want to see another Pyanodons integration for other circuitry mods, please open a discussion thread on the mod
 portal, or an issue on GitHub, or join the Discord server and let me know.

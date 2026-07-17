@@ -14,6 +14,7 @@
 
     "? Active_Rails >= 0.0.3",
     "? AlertScanner >= 0.2.2",
+    "? blueprint_reader >= 2.0.2",
 
     "? pyalternativeenergy >= 3.1.38",
     "pypostprocessing >= 3.0.42"

@@ -27,6 +27,7 @@ compatibility tweaks for Pyanodons:
 - [Improved Inventory Sensor](https://mods.factorio.com/mod/inventory-sensor-improved)
 - [Research Control Combinator Updated](https://mods.factorio.com/mod/Research_Control_Combinator_Updated)
 - [Simple Gauge](https://mods.factorio.com/mod/simple-gauge)
+- [Stack Combinator (Redux)](https://mods.factorio.com/mod/stack-combinator-redux)
 
 If you want to see another Pyanodons integration for other circuitry mods, please open a discussion thread on the mod
 portal, or an issue on GitHub, or join the Discord server and let me know.

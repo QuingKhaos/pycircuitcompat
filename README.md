@@ -17,6 +17,7 @@ compatibility tweaks for Pyanodons:
 - [Active Rails](https://mods.factorio.com/mod/Active_Rails)
 - [Alert Scanner](https://mods.factorio.com/mod/AlertScanner)
 - [Blueprint Reader Combinator](https://mods.factorio.com/mod/blueprint_reader)
+- [Circuit HUD V2](https://mods.factorio.com/mod/CircuitHUD-V2)
 
 If you want to see another Pyanodons integration for other circuitry mods, please open a discussion thread on the mod
 portal, or an issue on GitHub, or join the Discord server and let me know.

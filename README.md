@@ -25,6 +25,7 @@ compatibility tweaks for Pyanodons:
 - [Filter Combinator (Reimagined)](https://mods.factorio.com/mod/filter-combinator-improved)
 - [Heat Sensor](https://mods.factorio.com/mod/heat-sensor)
 - [Improved Inventory Sensor](https://mods.factorio.com/mod/inventory-sensor-improved)
+- [Research Control Combinator Updated](https://mods.factorio.com/mod/Research_Control_Combinator_Updated)
 
 If you want to see another Pyanodons integration for other circuitry mods, please open a discussion thread on the mod
 portal, or an issue on GitHub, or join the Discord server and let me know.

@@ -10,10 +10,12 @@ Includes [QuingKhaos' Circuitry Tweaks](https://mods.factorio.com/mod/khaoscircu
 
 - [Active Rails](https://mods.factorio.com/mod/Active_Rails)
 - [Alert Scanner](https://mods.factorio.com/mod/AlertScanner)
+- [Belt Counter 2.0](https://mods.factorio.com/mod/beltcounter2)
 - [Blueprint Reader Combinator](https://mods.factorio.com/mod/blueprint_reader)
 - [Circuit HUD V2](https://mods.factorio.com/mod/CircuitHUD-V2)
 - [Compact Circuits](https://mods.factorio.com/mod/compaktcircuit)
 - [Cybersyn Network Content Reader](https://mods.factorio.com/mod/Cybersyn-Content-Reader)
+- [Diode Combinator](https://mods.factorio.com/mod/diode-combinator)
 - [Energy Combinator](https://mods.factorio.com/mod/energy-combinator)
 - [Fiber Optics](https://mods.factorio.com/mod/fiber-optics)
 - [Filter Combinator (Reimagined)](https://mods.factorio.com/mod/filter-combinator-improved)
@@ -22,6 +24,7 @@ Includes [QuingKhaos' Circuitry Tweaks](https://mods.factorio.com/mod/khaoscircu
 - [Research Control Combinator Updated](https://mods.factorio.com/mod/Research_Control_Combinator_Updated)
 - [Simple Gauge](https://mods.factorio.com/mod/simple-gauge)
 - [Stack Combinator (Redux)](https://mods.factorio.com/mod/stack-combinator-redux)
+- [Statistics Combinator Updated](https://mods.factorio.com/mod/statistics-combinator-updated)
 
 If you want to see another Pyanodons integration for other circuitry mods, please open a discussion thread on the mod portal, or an issue on GitHub, or join the Discord server and let me know.
 

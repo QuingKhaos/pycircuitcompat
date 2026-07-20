@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: ????
+  Changes:
+    - Force some settings from QuingKhaos' Circuitry Tweaks to remove extra custom circuit network technologies.
+---------------------------------------------------------------------------------------------------
 Version: 2.0.0
 Date: 2026-07-17
   Info:

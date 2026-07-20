@@ -4,20 +4,23 @@
   "description": "Opinionated compatibility mod to integrate diverse circuit network mods better into Pyanodons. Configurable!",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
 
+    "? khaoscircuitrygroup >= 1.0.0",
     "khaoscircuitry >= 1.10.1",
     "khaoslib >= 1.17.1",
 
     "? Active_Rails >= 0.0.3",
     "? AlertScanner >= 0.2.2",
+    "? beltcounter2 >= 0.1.0",
     "? blueprint_reader >= 2.0.2",
     "? CircuitHUD-V2 >= 2.5.1",
     "? compaktcircuit >= 2.0.28",
     "? Cybersyn-Content-Reader >= 1.0.2",
+    "? diode-combinator >= 2.0.1",
     "? energy-combinator >= 1.1.1",
     "? fiber-optics >= 2.1.1",
     "? filter-combinator-improved >= 3.9.0",
@@ -25,6 +28,7 @@
     "? inventory-sensor-improved >= 2.1.0",
     "? Research_Control_Combinator_Updated >= 1.0.3",
     "? stack-combinator-redux >= 0.4.2",
+    "? statistics-combinator-updated >= 0.2.49",
 
     "? pyalternativeenergy >= 3.1.38",
     "? pycoalprocessing >= 3.0.44",

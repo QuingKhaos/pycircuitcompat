@@ -1,0 +1,9 @@
+mod_info:
+  title: "Pyanodons Circuit Compatibility"
+  summary: "Opinionated compatibility mod to integrate diverse circuit network mods better into Pyanodons. Configurable!"
+  description_file: README.md
+  attach_source_link: true
+  license: gnugplv3
+  category: tweaks
+  tags:
+    - circuit-network

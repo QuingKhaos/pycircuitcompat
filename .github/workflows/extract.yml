@@ -1,0 +1,16 @@
+name: Extract
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Extract raw data
+    uses: QuingKhaos/khaosdata-raw/.github/workflows/extraction.yml@main
+    secrets: inherit
+    with:
+      version: stable

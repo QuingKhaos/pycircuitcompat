@@ -1,0 +1,120 @@
+{
+  "mods": [
+    {
+      "enabled": false,
+      "name": "elevated-rails"
+    },
+    {
+      "enabled": true,
+      "name": "khaosbash"
+    },
+    {
+      "enabled": true,
+      "name": "khaoscircuitry"
+    },
+    {
+      "enabled": true,
+      "name": "khaoscircuitrygroup"
+    },
+    {
+      "enabled": true,
+      "name": "khaoslib"
+    },
+    {
+      "enabled": true,
+      "name": "khaosdata-extractor"
+    },
+    {
+      "enabled": true,
+      "name": "pyalienlife"
+    },
+    {
+      "enabled": true,
+      "name": "pyalienlifegraphics"
+    },
+    {
+      "enabled": true,
+      "name": "pyalienlifegraphics2"
+    },
+    {
+      "enabled": true,
+      "name": "pyalienlifegraphics3"
+    },
+    {
+      "enabled": true,
+      "name": "pyalternativeenergy"
+    },
+    {
+      "enabled": true,
+      "name": "pyalternativeenergygraphics"
+    },
+    {
+      "enabled": true,
+      "name": "pycircuitcompat"
+    },
+    {
+      "enabled": true,
+      "name": "pycoalprocessing"
+    },
+    {
+      "enabled": true,
+      "name": "pycoalprocessinggraphics"
+    },
+    {
+      "enabled": true,
+      "name": "pyfusionenergy"
+    },
+    {
+      "enabled": true,
+      "name": "pyfusionenergygraphics"
+    },
+    {
+      "enabled": true,
+      "name": "pyhightech"
+    },
+    {
+      "enabled": true,
+      "name": "pyhightechgraphics"
+    },
+    {
+      "enabled": true,
+      "name": "pyindustry"
+    },
+    {
+      "enabled": true,
+      "name": "pyindustrygraphics"
+    },
+    {
+      "enabled": true,
+      "name": "pymodpack"
+    },
+    {
+      "enabled": true,
+      "name": "pypetroleumhandling"
+    },
+    {
+      "enabled": true,
+      "name": "pypetroleumhandlinggraphics"
+    },
+    {
+      "enabled": true,
+      "name": "pypostprocessing"
+    },
+    {
+      "enabled": true,
+      "name": "pyrawores"
+    },
+    {
+      "enabled": true,
+      "name": "pyraworesgraphics"
+    },
+    {
+      "enabled": false,
+      "name": "quality"
+    },
+    {
+      "enabled": false,
+      "name": "space-age"
+    }
+  ]
+}

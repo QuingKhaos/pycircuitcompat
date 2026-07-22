@@ -18,6 +18,7 @@ Includes [QuingKhaos' Circuitry Tweaks](https://mods.factorio.com/mod/khaoscircu
 - [Cybersyn Network Content Reader](https://mods.factorio.com/mod/Cybersyn-Content-Reader)
 - [Diode Combinator](https://mods.factorio.com/mod/diode-combinator)
 - [Energy Combinator](https://mods.factorio.com/mod/energy-combinator)
+- [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon)
 - [Fiber Optics](https://mods.factorio.com/mod/fiber-optics)
 - [Filter Combinator (Reimagined)](https://mods.factorio.com/mod/filter-combinator-improved)
 - [Heat Sensor](https://mods.factorio.com/mod/heat-sensor)

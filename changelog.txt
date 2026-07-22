@@ -4,6 +4,7 @@ Date: ????
   Changes:
     - Add batteries to Cybersyn combinator.
     - Add batteries to Factorissimo factory circuit connector.
+    - Add batteries to LTN Train Info combinator.
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.2
 Date: 2026-07-21

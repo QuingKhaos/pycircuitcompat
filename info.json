@@ -28,6 +28,7 @@
     "? filter-combinator-improved >= 3.9.0",
     "? heat-sensor >= 0.1.1",
     "? inventory-sensor-improved >= 2.1.0",
+    "? ltn-train-info >= 1.3.0",
     "? Research_Control_Combinator_Updated >= 1.0.3",
     "? stack-combinator-redux >= 0.4.2",
     "? statistics-combinator-updated >= 0.2.49",

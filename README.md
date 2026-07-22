@@ -14,6 +14,7 @@ Includes [QuingKhaos' Circuitry Tweaks](https://mods.factorio.com/mod/khaoscircu
 - [Blueprint Reader Combinator](https://mods.factorio.com/mod/blueprint_reader)
 - [Circuit HUD V2](https://mods.factorio.com/mod/CircuitHUD-V2)
 - [Compact Circuits](https://mods.factorio.com/mod/compaktcircuit)
+- [Cybersyn](https://mods.factorio.com/mod/cybersyn)
 - [Cybersyn Network Content Reader](https://mods.factorio.com/mod/Cybersyn-Content-Reader)
 - [Diode Combinator](https://mods.factorio.com/mod/diode-combinator)
 - [Energy Combinator](https://mods.factorio.com/mod/energy-combinator)

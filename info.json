@@ -4,7 +4,7 @@
   "description": "Opinionated compatibility mod to integrate diverse circuit network mods better into Pyanodons. Configurable!",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -19,6 +19,7 @@
     "? blueprint_reader >= 2.0.2",
     "? CircuitHUD-V2 >= 2.5.1",
     "? compaktcircuit >= 2.0.28",
+    "? cybersyn >= 2.0.53",
     "? Cybersyn-Content-Reader >= 1.0.2",
     "? diode-combinator >= 2.0.1",
     "? energy-combinator >= 1.1.1",

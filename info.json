@@ -30,6 +30,7 @@
     "? inventory-sensor-improved >= 2.1.0",
     "? ltn-train-info >= 1.3.0",
     "? m-microcontroller >= 0.12.1",
+    "? quantum-fabricator >= 2.12.2",
     "? Research_Control_Combinator_Updated >= 1.0.3",
     "? stack-combinator-redux >= 0.4.2",
     "? statistics-combinator-updated >= 0.2.49",

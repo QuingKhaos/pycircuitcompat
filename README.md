@@ -24,6 +24,7 @@ Includes [QuingKhaos' Circuitry Tweaks](https://mods.factorio.com/mod/khaoscircu
 - [Heat Sensor](https://mods.factorio.com/mod/heat-sensor)
 - [Improved Inventory Sensor](https://mods.factorio.com/mod/inventory-sensor-improved)
 - [LTN Train Information Combinator](https://mods.factorio.com/mod/ltn-train-info)
+- [MicroController](https://mods.factorio.com/mod/m-microcontroller)
 - [Research Control Combinator Updated](https://mods.factorio.com/mod/Research_Control_Combinator_Updated)
 - [Simple Gauge](https://mods.factorio.com/mod/simple-gauge)
 - [Stack Combinator (Redux)](https://mods.factorio.com/mod/stack-combinator-redux)

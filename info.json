@@ -4,7 +4,7 @@
   "description": "Opinionated compatibility mod to integrate diverse circuit network mods better into Pyanodons. Configurable!",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -29,6 +29,7 @@
     "? heat-sensor >= 0.1.1",
     "? inventory-sensor-improved >= 2.1.0",
     "? ltn-train-info >= 1.3.0",
+    "? m-microcontroller >= 0.12.1",
     "? Research_Control_Combinator_Updated >= 1.0.3",
     "? stack-combinator-redux >= 0.4.2",
     "? statistics-combinator-updated >= 0.2.49",
